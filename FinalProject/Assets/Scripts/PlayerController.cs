@@ -11,6 +11,7 @@ public class PlayerController : MonoBehaviour
     public float gravity = -9.81f;
 
     public float stamina = 3f;
+    public float isTired = false;
 
     Vector3 velocity;
     bool isGrounded;
