@@ -1,19 +1,19 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: I:/23yumulp/ProjectP/FinalProject/Packages/manifest.json
+    m_FilePath: I:/23chrobc/Unity/ProjectP/FinalProject/Packages/manifest.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637871920596996417
+      ticks: 637873666966987291
     m_Hash: 1688244953
   m_LockFileStatus:
-    m_FilePath: I:/23yumulp/ProjectP/FinalProject/Packages/packages-lock.json
+    m_FilePath: I:/23chrobc/Unity/ProjectP/FinalProject/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637871920597152630
+      ticks: 637873666967143509
     m_Hash: 836777200
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
@@ -25,7 +25,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.3.9
       source: 1
-      resolvedPath: I:\23yumulp\ProjectP\FinalProject\Library\PackageCache\com.unity.collab-proxy@1.3.9
+      resolvedPath: I:\23chrobc\Unity\ProjectP\FinalProject\Library\PackageCache\com.unity.collab-proxy@1.3.9
       assetPath: Packages/com.unity.collab-proxy
       name: com.unity.collab-proxy
       displayName: Unity Collaborate
@@ -77,6 +77,7 @@ m_PackageAssets:
         - 1.14.13
         - 1.14.15
         - 1.14.16
+        - 1.14.17
         - 1.15.1
         - 1.15.4
         - 1.15.7
@@ -85,6 +86,7 @@ m_PackageAssets:
         - 1.15.13
         - 1.15.15
         - 1.15.16
+        - 1.15.17
         - 2.0.0-preview.6
         - 2.0.0-preview.8
         - 2.0.0-preview.15
@@ -111,6 +113,7 @@ m_PackageAssets:
         - 1.14.13
         - 1.14.15
         - 1.14.16
+        - 1.14.17
         - 2.0.0-preview.6
         - 2.0.0-preview.8
         - 2.0.0-preview.15
@@ -160,7 +163,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 2.0.7
       source: 1
-      resolvedPath: I:\23yumulp\ProjectP\FinalProject\Library\PackageCache\com.unity.ide.rider@2.0.7
+      resolvedPath: I:\23chrobc\Unity\ProjectP\FinalProject\Library\PackageCache\com.unity.ide.rider@2.0.7
       assetPath: Packages/com.unity.ide.rider
       name: com.unity.ide.rider
       displayName: JetBrains Rider Editor
@@ -277,7 +280,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 2.0.7
       source: 1
-      resolvedPath: I:\23yumulp\ProjectP\FinalProject\Library\PackageCache\com.unity.ide.visualstudio@2.0.7
+      resolvedPath: I:\23chrobc\Unity\ProjectP\FinalProject\Library\PackageCache\com.unity.ide.visualstudio@2.0.7
       assetPath: Packages/com.unity.ide.visualstudio
       name: com.unity.ide.visualstudio
       displayName: Visual Studio Editor
@@ -370,7 +373,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.2.3
       source: 1
-      resolvedPath: I:\23yumulp\ProjectP\FinalProject\Library\PackageCache\com.unity.ide.vscode@1.2.3
+      resolvedPath: I:\23chrobc\Unity\ProjectP\FinalProject\Library\PackageCache\com.unity.ide.vscode@1.2.3
       assetPath: Packages/com.unity.ide.vscode
       name: com.unity.ide.vscode
       displayName: Visual Studio Code Editor
@@ -443,7 +446,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 4.5.2
       source: 1
-      resolvedPath: I:\23yumulp\ProjectP\FinalProject\Library\PackageCache\com.unity.probuilder@4.5.2
+      resolvedPath: I:\23chrobc\Unity\ProjectP\FinalProject\Library\PackageCache\com.unity.probuilder@4.5.2
       assetPath: Packages/com.unity.probuilder
       name: com.unity.probuilder
       displayName: ProBuilder
@@ -585,7 +588,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.1.24
       source: 1
-      resolvedPath: I:\23yumulp\ProjectP\FinalProject\Library\PackageCache\com.unity.test-framework@1.1.24
+      resolvedPath: I:\23chrobc\Unity\ProjectP\FinalProject\Library\PackageCache\com.unity.test-framework@1.1.24
       assetPath: Packages/com.unity.test-framework
       name: com.unity.test-framework
       displayName: Test Framework
@@ -689,7 +692,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 3.0.4
       source: 1
-      resolvedPath: I:\23yumulp\ProjectP\FinalProject\Library\PackageCache\com.unity.textmeshpro@3.0.4
+      resolvedPath: I:\23chrobc\Unity\ProjectP\FinalProject\Library\PackageCache\com.unity.textmeshpro@3.0.4
       assetPath: Packages/com.unity.textmeshpro
       name: com.unity.textmeshpro
       displayName: TextMeshPro
@@ -859,7 +862,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.4.7
       source: 1
-      resolvedPath: I:\23yumulp\ProjectP\FinalProject\Library\PackageCache\com.unity.timeline@1.4.7
+      resolvedPath: I:\23chrobc\Unity\ProjectP\FinalProject\Library\PackageCache\com.unity.timeline@1.4.7
       assetPath: Packages/com.unity.timeline
       name: com.unity.timeline
       displayName: Timeline
@@ -2831,7 +2834,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.6
       source: 1
-      resolvedPath: I:\23yumulp\ProjectP\FinalProject\Library\PackageCache\com.unity.ext.nunit@1.0.6
+      resolvedPath: I:\23chrobc\Unity\ProjectP\FinalProject\Library\PackageCache\com.unity.ext.nunit@1.0.6
       assetPath: Packages/com.unity.ext.nunit
       name: com.unity.ext.nunit
       displayName: Custom NUnit
@@ -2894,7 +2897,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.3
       source: 1
-      resolvedPath: I:\23yumulp\ProjectP\FinalProject\Library\PackageCache\com.unity.settings-manager@1.0.3
+      resolvedPath: I:\23chrobc\Unity\ProjectP\FinalProject\Library\PackageCache\com.unity.settings-manager@1.0.3
       assetPath: Packages/com.unity.settings-manager
       name: com.unity.settings-manager
       displayName: Settings Manager
@@ -2939,5 +2942,5 @@ m_PackageAssets:
         path: 
   m_LocalPackages:
     m_LocalFileStatus: []
-m_ProjectPath: I:/23yumulp/ProjectP/FinalProject/Packages
+m_ProjectPath: I:/23chrobc/Unity/ProjectP/FinalProject/Packages
 m_EditorVersion: 2020.3.7f1 (dd97f2c94397)
